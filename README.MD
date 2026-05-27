@@ -32,5 +32,5 @@ While building this project, I understood how game logic works in programming an
 This project was built as part of my learning journey in C programming to understand basic game development logic.
 
 ## Author
-Name: Anam Fatima Athar Parvez Dafedar
+Name:Nikita Bhagwat Bhadkumbe
 Course: BCA Student
